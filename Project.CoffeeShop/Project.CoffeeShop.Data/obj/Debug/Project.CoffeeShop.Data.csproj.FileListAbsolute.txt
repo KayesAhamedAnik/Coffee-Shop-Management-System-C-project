@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Data\bin\Debug\Project.CoffeeShop.Data.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Data\bin\Debug\Project.CoffeeShop.Data.pdb
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Data\obj\Debug\Project.CoffeeShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Data\obj\Debug\Project.CoffeeShop.Data.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Data\obj\Debug\Project.CoffeeShop.Data.pdb

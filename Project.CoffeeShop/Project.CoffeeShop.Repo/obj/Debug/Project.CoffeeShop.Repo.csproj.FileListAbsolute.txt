@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Repo.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Repo.pdb
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Data.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Entity.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Data.pdb
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\bin\Debug\Project.CoffeeShop.Entity.pdb
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\obj\Debug\Project.CoffeeShop.Repo.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\obj\Debug\Project.CoffeeShop.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\obj\Debug\Project.CoffeeShop.Repo.csproj.CopyComplete
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\obj\Debug\Project.CoffeeShop.Repo.dll
+C:\Users\Asus\Desktop\Temp\Project.CoffeeShop\Project.CoffeeShop.Repo\obj\Debug\Project.CoffeeShop.Repo.pdb
